@@ -46,8 +46,19 @@
   },
   "iX4HPgoiEbc_gze1A01n4": {
     "title": "System Design and Architecture",
-    "description": "",
-    "links": []
+    "description": "System design and architecture are critical for building robust software systems. For engineering managers, it involves not only technical expertise but also leadership in decision-making, project management, and cross-team collaboration.\n\nVisit the following resources to learn more:",
+    "links": [
+      {
+        "title": "System Design Roadmap",
+        "url": "https://roadmap.sh/system-design",
+        "type": "article"
+      },
+      {
+        "title": "Software Architect Roadmap",
+        "url": "https://roadmap.sh/software-architect",
+        "type": "article"
+      }
+    ]
   },
   "EY6Hk5wPd9Y_VA1UROk44": {
     "title": "Technical Debt and Management",
